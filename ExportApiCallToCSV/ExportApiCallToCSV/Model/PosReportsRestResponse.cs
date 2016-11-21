@@ -8,17 +8,17 @@ namespace ExportApiCallToCSV.Model
     {
         public PosReportsRestResponse(HttpStatusCode statusCode, string responseContent)
         {
-            this.Data = statusCode == HttpStatusCode.OK ? JsonConvert.DeserializeObject<List<PosReportsResource>>(responseContent) : null;
+            Data = statusCode == HttpStatusCode.OK ? JsonConvert.DeserializeObject<List<PosReportsResource>>(responseContent) : null;
 
-            this.StatusCode = statusCode;
-            this.ResponseContent = responseContent;
+            StatusCode = statusCode;
+            ResponseContent = responseContent;
         }
 
         public PosReportsRestResponse(HttpStatusCode statusCode, List<PosReportsResource> data)
         {
-            this.Data = data;
-            this.StatusCode = statusCode;
-            this.ResponseContent = string.Empty;
+            Data = data;
+            StatusCode = statusCode;
+            ResponseContent = string.Empty;
         }
 
         public List<PosReportsResource> Data { get; set; }
