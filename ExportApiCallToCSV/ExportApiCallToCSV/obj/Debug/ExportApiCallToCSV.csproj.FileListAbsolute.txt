@@ -1,0 +1,10 @@
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\bin\Debug\ExportApiCallToCSV.exe.config
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\obj\Debug\ExportApiCallToCSV.csprojResolveAssemblyReference.cache
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\bin\Debug\ExportApiCallToCSV.exe
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\bin\Debug\ExportApiCallToCSV.pdb
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\bin\Debug\Newtonsoft.Json.dll
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\bin\Debug\Newtonsoft.Json.xml
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\obj\Debug\ExportApiCallToCSV.exe
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\obj\Debug\ExportApiCallToCSV.pdb
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\bin\Debug\CsvHelper.dll
+C:\shared\ExportApiCallToCSV\ExportApiCallToCSV\ExportApiCallToCSV\bin\Debug\CsvHelper.xml
